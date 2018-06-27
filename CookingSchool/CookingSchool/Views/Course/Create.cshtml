@@ -1,0 +1,23 @@
+﻿@using CookingSchool.Models
+@model CookingSchool.Models.Course
+
+<form method="post" asp-controller="Course" form-action="Create">
+
+    <label asp-for="Name">Name</label>
+    <input asp-for="Name" />
+    <br />
+    <br />
+
+    <label asp-for="CourseName">CourseName: </label>
+    <select asp-for="CourseName" asp-items="Html.GetEnumSelectList<CourseName>()"></select>
+    <br />
+    <br />
+
+    <label asp-for="CourseId">CourseId</label>
+    <input asp-for="CourseId" />
+    <br />
+    <br />
+
+    <button type="submit">Create Course</button>
+
+</form>
