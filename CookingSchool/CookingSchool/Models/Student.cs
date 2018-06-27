@@ -13,6 +13,8 @@ namespace CookingSchool.Models
         [Required]
         public string Name { get; set; }
         [Required]
+        public Course Course { get; set; }
+        [Required]
         public int CourseId { get; set; }
 
     }

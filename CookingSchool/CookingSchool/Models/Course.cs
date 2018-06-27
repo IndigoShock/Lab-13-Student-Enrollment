@@ -11,8 +11,6 @@ namespace CookingSchool.Models
         public int ID { get; set; }
 
         [Required]
-        public string Name { get; set; }
-        [Required]
         public CourseName CourseName { get; set; }
         [Required]
         public int CourseId { get; set; }
