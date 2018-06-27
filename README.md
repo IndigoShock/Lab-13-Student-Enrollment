@@ -5,7 +5,6 @@
 Converting JSON File, showing them on the console and filter via LINQ and Lambda expressions.
 
 3. Usage
-
 a. First install appropriate programs. Refer to Step 5 in this README.
 b. Upon start up, the deck will instantiate with chosen cards.
 c. The user will have the choice of being able to add a card, remove or shuffle.
