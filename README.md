@@ -18,7 +18,7 @@ Visual
 No API's were harmed in the making of this.
 
 5. Installation
-Install Visual Studio 2017 and .NET Core SDK. Microsoft Azure account.
+Install Visual Studio 2017 and .NET Core SDK. Have Microsoft Azure account.
 
 6. License
 This program's License is MIT.
