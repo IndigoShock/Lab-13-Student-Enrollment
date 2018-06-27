@@ -12,7 +12,7 @@ d. If clicking on the create a course, the user will have a form to fill out the
 e. The View all will show the updated database info already up. If nothing is filled out, it will be blank.
 
 Visual
-![Image](asset/Lab13.JPG)
+![Image](CookingSchool/CookingSchool/asset/Lab13.JPG)
 
 4. API
 No API's were harmed in the making of this.
